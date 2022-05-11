@@ -14,9 +14,9 @@
       "factor": 22
     },
     "btc": {
-      "base_x": 0,
-      "base_y": 0,
-      "factor": 22
+      "base_x": 43500,
+      "base_y": 90000,
+      "factor": 16
     }
   }
 }
