@@ -1,0 +1,15 @@
+{
+  "server_address": "0.tcp.ap.ngrok.io",
+  "server_port": "17226",
+  "polling_time": 0.2,
+  "map": {
+    "ctc": {
+      "base_x": 46951,
+      "base_y": 100224
+    },
+    "ctp": {
+      "base_x": 32353,
+      "base_y": 76471
+    }
+  }
+}
