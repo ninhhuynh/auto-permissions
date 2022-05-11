@@ -5,11 +5,13 @@
   "map": {
     "ctc": {
       "base_x": 46951,
-      "base_y": 100224
+      "base_y": 100224,
+      "factor": 22
     },
     "ctp": {
       "base_x": 32353,
-      "base_y": 76471
+      "base_y": 76471,
+      "factor": 22
     }
   }
 }
