@@ -12,6 +12,11 @@
       "base_x": 32353,
       "base_y": 76471,
       "factor": 22
+    },
+    "btc": {
+      "base_x": 0,
+      "base_y": 0,
+      "factor": 22
     }
   }
 }
