@@ -1,6 +1,6 @@
 {
   "server_address": "0.tcp.ap.ngrok.io",
-  "server_port": "17226",
+  "server_port": "19329",
   "polling_time": 0.2,
   "map": {
     "ctc": {
