@@ -9,9 +9,9 @@
       "factor": 22
     },
     "ctp": {
-      "base_x": 32353,
-      "base_y": 76471,
-      "factor": 22
+      "base_x": 49600,
+      "base_y": 91200,
+      "factor": 16
     },
     "btc": {
       "base_x": 43500,
