@@ -1,5 +1,5 @@
 {
-  "server_address": "0.tcp.ap.ngrok.io",
+  "server_address": "14.169.237.219",
   "server_port": "13013",
   "polling_time": 0.1,
   "map": {
